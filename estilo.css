@@ -23,6 +23,24 @@
   background-color: #FE5722FF;
 }
 
+.card-footer{
+  background-color: #F8CC1C;
+}
+
+.card-footer h4{
+  color: #B42A27;
+  font-weight: bold;
+}
+
+.card{
+  background-color: #F8F8F8;
+}
+
+.card-title{
+  font-weight: 400;
+  font-size: medium;
+}
+
 /*topo*/
 
 #myBtn {
