@@ -10,6 +10,9 @@
   color: #fe5722;
 }
 
+.card{
+  box-shadow: -2px 3px 5px 3px #DBDBDB;
+}
 /* Carrosel li */
 
 .carousel2 li {
