@@ -1,0 +1,18 @@
+# Enable Rewrite Engine
+RewriteEngine on
+
+# Set cache control headers for static resources
+<IfModule mod_headers.c>
+    # Cache control for images, media, and JavaScript/CSS files
+    <FilesMatch "\.(ico|gif|jpg|jpeg|png|webp|js|css|woff|woff2|ttf|svg)$">
+        Header set Cache-Control "max-age=604800, public"
+    </FilesMatch>
+</IfModule>
+
+# Rewrite rules for removing file extensions
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [L]
