@@ -19,12 +19,20 @@
 
                 </div>
             </div>
-            <div class="col mb-4">
+            <!-- <div class="col mb-4">
                 <div class="card">
                     <a href="Portas"><img src="../img/produto03.png" class="card-img-top" alt="Imagem Categorias"></a>
 
                 </div>
+            </div> -->
+
+            <div class="col mb-4">
+                <div class="card">
+                    <a href="impermeabilizantes"><img src="../img/produto08.png" class="card-img-top" alt="Imagem Categorias"></a>
+
+                </div>
             </div>
+            
             <div class="col mb-4">
                 <div class="card">
                     <a href="banheiro"><img src="../img/produto04.png" class="card-img-top" alt="Imagem Categorias"></a>
@@ -52,19 +60,8 @@
 
                 </div>
             </div>
-            <div class="col mb-4">
-                <div class="card">
-                    <a href="impermeabilizantes"><img src="../img/produto08.png" class="card-img-top" alt="Imagem Categorias"></a>
+            
 
-                </div>
-            </div>
-
-            <div class="col mb-4">
-                <div class="card">
-                    <a href="loucasemetais"><img src="../img/produto09.png" class="card-img-top" alt="Imagem Categorias"></a>
-
-                </div>
-            </div>
 
         </div>
 
