@@ -14,7 +14,7 @@
                     <img src="../img/categorias/construcao01.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Cimento cpll Votoran Todas as Obras</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -115,6 +115,42 @@
             </div>
         </div>
 
+        
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
+                    <img src="../img/categorias/construcao/1.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Treliça h8 6M</h5>
+                    <p class="card-text">✅ Pronta Entrega</p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <h4>R$ 39,90 à vista</h4>
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
+                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Barra Ferro ca50</h5>
+                    <p class="card-text">✅ Pronta Entrega</p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <h4>R$  à vista</h4>
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
 
     </div>
 </div>

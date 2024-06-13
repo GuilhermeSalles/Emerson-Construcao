@@ -14,7 +14,7 @@
                     <img src="../img/categorias/construcao07.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Vedacit 18LT</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -31,7 +31,7 @@
                     <img src="../img/categorias/impermeabilizantes/01.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Mactra Imperall Premium 18LT</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -48,7 +48,7 @@
                     <img src="../img/categorias/impermeabilizantes/02.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Manta Branca Telhados e Lajes 14Kg</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -65,7 +65,7 @@
                     <img src="../img/categorias/impermeabilizantes/03.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Mactracol 18LT</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -82,7 +82,7 @@
                     <img src="../img/categorias/impermeabilizantes/04.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Bianco Argamassas e Chapisco 18Kg</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">

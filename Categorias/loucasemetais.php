@@ -15,7 +15,7 @@
                     <img src="../img/categorias/loucas/01.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Bacia Convencional Mondialle Branca </h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -33,7 +33,7 @@
                     <img src="../img/categorias/loucas/02.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Bacia Acesso Convencional</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -51,7 +51,7 @@
                     <img src="../img/categorias/loucas/03.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Mictorio Convencional</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -69,7 +69,7 @@
                     <img src="../img/categorias/loucas/04.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Lavatorio c/ Coluna Branca</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -87,7 +87,7 @@
                     <img src="../img/categorias/loucas/05.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Bacia City c/ Caixa Acoplada Preta</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
@@ -105,7 +105,7 @@
                     <img src="../img/categorias/loucas/06.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Cuba Louça Thema Branca</h5>
-                    <p class="card-text">Pronta Entrega</p>
+                    <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
                 <div class="card-footer text-center">
