@@ -271,7 +271,7 @@
 
                 </div>
                 <div class="card-footer text-center">
-                    <h4>R$  à vista</h4>
+                    <h4>R$ 750,00 à vista</h4>
                     <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Ferramentas%20que%20tem%20no%20site!">Comprar!</a>
                 </div>
 
