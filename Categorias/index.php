@@ -19,12 +19,12 @@
 
                 </div>
             </div>
-            <!-- <div class="col mb-4">
+            <div class="col mb-4">
                 <div class="card">
                     <a href="Portas"><img src="../img/produto03.png" class="card-img-top" alt="Imagem Categorias"></a>
 
                 </div>
-            </div> -->
+            </div>
 
             <div class="col mb-4">
                 <div class="card">
@@ -32,16 +32,17 @@
 
                 </div>
             </div>
-            
+
+
+        </div>
+
+        <div class="row row-cols-1 row-cols-md-2">
             <div class="col mb-4">
                 <div class="card">
                     <a href="banheiro"><img src="../img/produto04.png" class="card-img-top" alt="Imagem Categorias"></a>
 
                 </div>
             </div>
-        </div>
-
-        <div class="row row-cols-1 row-cols-md-2">
             <div class="col mb-4">
                 <div class="card">
                     <a href="eletros"><img src="../img/produto05.png" class="card-img-top" alt="Imagem Categorias"></a>
@@ -60,7 +61,7 @@
 
                 </div>
             </div>
-            
+
 
 
         </div>

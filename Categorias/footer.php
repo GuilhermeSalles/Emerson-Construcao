@@ -15,7 +15,7 @@
                     vendas.emersoncec@gmail.com</p>
                 <p style="margin-top: -10px;" class="text-justify"><strong>Segunda à sexta:</strong> 07:30 às 18:00
                 </p>
-                <p style="margin-top: -10px;" class="text-justify"><strong>Sábado:</strong> 07:30 às 12:00</p>
+                <p style="margin-top: -10px;" class="text-justify"><strong>Sábado:</strong> 07:30 às 13:00</p>
                 <p class="text-justify"><strong>Contato:</strong> (19) 97410-6370 - (19) 97411-4770 - (19) 3226-7226
                 </p>
 
