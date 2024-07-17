@@ -463,7 +463,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Portas%20e%20Janelas%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/portasEjanelas/15.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/portasEjanelas/16.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Vitro 1,00x1,50 c/gd aluminio branco </h5>
                     <p class="card-text">✅ Pronta Entrega </p>
@@ -481,7 +481,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Portas%20e%20Janelas%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/portasEjanelas/15.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/portasEjanelas/16.jpeg" class="card-img-top" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Vitro 1,00x2,00 c/gd aluminio branco</h5>
                     <p class="card-text">✅ Pronta Entrega </p>

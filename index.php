@@ -11,20 +11,17 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item ">
-        <img src="img/bannerComputador01.jpg" class="d-block w-100 img-fluid" alt="Imagem carrosel promoção" style="height: 820px;">
+        <img src="img/bannerComputador/1.png" class="d-block w-100 img-fluid" alt="Imagem carrosel promoção" style="height: 820px;">
         <div class="carousel-caption d-none d-md-block">
         </div>
       </div>
       <div class="carousel-item">
-        <img src="img/bannerComputador02.jpg" class="d-block w-100 img-fluid" alt="Imagem carrosel promoção" style="height: 820px;">
+        <img src="img/bannerComputador/3.png" class="d-block w-100 img-fluid" alt="Imagem carrosel promoção" style="height: 820px;">
         <div class="carousel-caption d-none d-md-block">
         </div>
       </div>
       <div class="carousel-item active">
-        <a href="ofertas"><img src="img/11.png" class="d-block w-100 img-fluid" alt="Imagem carrosel promoção" style="height: 820px;"></a>
-        <div class="carousel-caption">
-          <a class="btn btn-success" href="ofertas" role="button">Veja nossas Ofertas!</a>
-        </div>
+        <a href="ofertas"><img src="img/bannerComputador/2.png" class="d-block w-100 img-fluid" alt="Imagem carrosel promoção" style="height: 820px;"></a>
       </div>
 
     </div>
@@ -61,18 +58,15 @@
           </div>
         </div> -->
 
-      <div class="carousel-item h-100 " style="background: url(img/bannerCell01.png) center/contain no-repeat;">
+      <div class="carousel-item h-100 " style="background: url(img/bannerCelular/1.png) center/contain no-repeat;">
 
       </div>
-      <div class="carousel-item h-100" style="background: url(img/bannerCell02.png) center/contain no-repeat;">
+      <div class="carousel-item h-100" style="background: url(img/bannerCelular/3.png) center/contain no-repeat;">
 
       </div>
 
-      <div class="carousel-item h-100 active" style="background: url(img/10.png) center/contain no-repeat;">
-        <div class="carousel-caption">
-          <a class="btn btn-success" href="ofertas" role="button">Veja nossas Ofertas!</a>
-        </div>
-      </div>
+      <a href="ofertas" class="carousel-item h-100 active" style="background: url(img/bannerCelular/2.png) center/contain no-repeat;">
+      </a>
 
 
 
