@@ -148,40 +148,41 @@
   <!-- Parte Produtos -->
 
   <section class="container col-12 d-block bg-light">
-    <div class="row" id="Produtos">
-      <div class="p-3 col-12 text-center mb-4 mt-4">
-        <h2 class="mb-4"><i class="material-icons">shopping_bag</i> Categorias
-        </h2>
+    <div class="container">
+      <div class="row text-center" id="Produtos">
+        <div class="p-3 text-center mb-4 mt-4">
+          <h2 class="mb-4"><i class="material-icons">shopping_bag</i> Categorias</h2>
 
-        <div class="row row-cols-1 row-cols-md-2">
-          <div class="col mb-4">
-            <div class="card">
-              <a href="Categorias/Pintura"><img src="img/produto01.png" class="card-img-top" alt="Imagem Categorias"></a>
+          <div class="row row-cols-1 row-cols-md-2">
+            <div class="col mb-4">
+              <div class="card">
+                <a href="Categorias/Pintura"><img src="img/produto01.png" class="card-img-top" alt="Imagem Categorias"></a>
 
+              </div>
             </div>
-          </div>
-          <div class="col mb-4">
-            <div class="card">
-              <a href="Categorias/Gabinetes"><img src="img/produto02.png" class="card-img-top" alt="Imagem Categorias"></a>
+            <div class="col mb-4">
+              <div class="card">
+                <a href="Categorias/Gabinetes"><img src="img/produto02.png" class="card-img-top" alt="Imagem Categorias"></a>
 
+              </div>
             </div>
-          </div>
-          <div class="col mb-4">
-            <div class="card">
-              <a href="Categorias/Portas"><img src="img/produto03.png" class="card-img-top" alt="Imagem Categorias"></a>
+            <div class="col mb-4">
+              <div class="card">
+                <a href="Categorias/Portas"><img src="img/produto03.png" class="card-img-top" alt="Imagem Categorias"></a>
 
+              </div>
             </div>
-          </div>
-          <div class="col mb-4">
-            <div class="card">
-              <a href="Categorias/banheiro"><img src="img/produto04.png" class="card-img-top" alt="Imagem Categorias"></a>
+            <div class="col mb-4">
+              <div class="card">
+                <a href="Categorias/banheiro"><img src="img/produto04.png" class="card-img-top" alt="Imagem Categorias"></a>
 
+              </div>
             </div>
           </div>
         </div>
-      </div>
-      <div class="col-12 text-center mb-3">
-        <a type="button" href="Categorias/" class="btn btn-primary btn-lg">Ver mais!</a>
+        <div class="col-12 text-center mb-3">
+          <a type="button" href="Categorias/" class="btn btn-primary btn-lg">Ver mais!</a>
+        </div>
       </div>
     </div>
   </section>
