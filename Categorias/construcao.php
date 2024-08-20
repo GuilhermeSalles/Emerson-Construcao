@@ -11,7 +11,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao01.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao01.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Cimento cpll Votoran Todas as Obras</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
@@ -29,7 +29,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao02.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao02.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Pedrisco M³ </h5>
                     <p class="card-text">Entrega a consultar</p>
@@ -47,7 +47,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao03.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao03.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Pedra N°1 M³ </h5>
                     <p class="card-text">Entrega a consultar</p>
@@ -65,7 +65,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao04.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao04.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Areia Grossa M³ </h5>
                     <p class="card-text">Entrega a consultar</p>
@@ -83,7 +83,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao05.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao05.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Areia Media Pura M³ </h5>
                     <p class="card-text">Entrega a consultar</p>
@@ -101,7 +101,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao06.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao06.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Areia Fina Lavada M³ </h5>
                     <p class="card-text">Entrega a consultar</p>
@@ -120,7 +120,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao/1.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao/1.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Treliça h8 6M</h5>
                     <p class="card-text">✅ Pronta Entrega</p>
@@ -138,7 +138,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Barra Ferro 1/4-6.3mm (Barra C/12MTS)
                     </h5>
@@ -157,7 +157,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Barra Ferro 3/16-4.2mm (Barra C/12MTS)
                     </h5>
@@ -176,7 +176,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Barra Ferro 3/8-10mm (Barra C/12MTS)
                     </h5>
@@ -195,7 +195,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Barra Ferro 5/16-8mm (Barra C/12MTS)
                     </h5>
@@ -214,7 +214,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Construção%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/construcao/2.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Barra Ferro 1/2 (Barra C/12MTS)
                     </h5>

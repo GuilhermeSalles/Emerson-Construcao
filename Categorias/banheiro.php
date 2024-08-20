@@ -10,7 +10,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Banheiro%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/banheiro1.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/banheiro1.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body">
                     <h5 class="card-title">Ducha Loren Shower Lorenzetti</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
@@ -28,7 +28,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Banheiro%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/banheiro2.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/banheiro2.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body">
                     <h5 class="card-title">Ducha Top jet Multitemperaturas Lorenzetti</h5>
                     <p class="card-text">✅ Pronta Entrega</p>
@@ -46,7 +46,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Banheiro%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/banheiro3.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/banheiro3.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body">
                     <h5 class="card-title">Bella Ducha 4T Lorenzetti</h5>
                     <p class="card-text">✅ Pronta Entrega</p>
@@ -64,7 +64,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Banheiro%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/banheiro/1.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/banheiro/1.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body">
                     <h5 class="card-title">Ducha acqua Storm Black 127/220</h5>
                     <p class="card-text">✅ Pronta Entrega</p>
@@ -82,7 +82,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Banheiro%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/banheiro/2.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/banheiro/2.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body">
                     <h5 class="card-title">Ducha futura mult temp 127/220</h5>
                     <p class="card-text">✅ Pronta Entrega</p>
@@ -100,7 +100,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Banheiro%20que%20tem%20no%20site!">
-                    <img src="../img/categorias/banheiro/3.jpeg" class="card-img-top" alt="Oferta 1"></a>
+                    <img src="../img/categorias/banheiro/3.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body">
                     <h5 class="card-title">Ducha Hydra optma 127/220 Eletrônico</h5>
                     <p class="card-text">✅ Pronta Entrega</p>

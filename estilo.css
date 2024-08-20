@@ -1,5 +1,5 @@
 .azul {
-  color: #164FA2;
+  color: #164fa2;
 }
 
 .bold {
@@ -7,11 +7,16 @@
 }
 
 .laranja {
-  color: #F47C37;
+  color: #f47c37;
+}
+.ratio{
+  aspect-ratio: 4/3;
+  object-fit: contain;
 }
 
-.card{
-  box-shadow: -2px 3px 5px 3px #DBDBDB;
+
+.card {
+  box-shadow: -2px 3px 5px 3px #dbdbdb;
 }
 /* Carrosel li */
 
@@ -23,23 +28,23 @@
 }
 
 .carousel2 .active {
-  background-color: #FE5722FF;
+  background-color: #fe5722ff;
 }
 
-.card-footer{
+.card-footer {
   background-color: #e9e6e6;
 }
 
-.card-footer h4{
-  color: #B42A27;
+.card-footer h4 {
+  color: #b42a27;
   font-weight: bold;
 }
 
-.card{
-  background-color: #F8F8F8;
+.card {
+  background-color: #f8f8f8;
 }
 
-.card-title{
+.card-title {
   font-weight: 400;
   font-size: medium;
 }
@@ -59,7 +64,6 @@
   box-shadow: rgba(75, 75, 75, 0.25) 5px 5px 5px,
     rgba(75, 75, 75, 0.22) 5px 5px 5px;
 }
-
 
 /* Animate */
 
@@ -192,14 +196,14 @@
 .social-icons li.title {
   margin-right: 15px;
   text-transform: uppercase;
-  color: #00245C;
+  color: #00245c;
   font-weight: 700;
   font-size: 13px;
 }
 
 .social-icons a {
-  background-color: #00245C;
-  color: #00245C;
+  background-color: #00245c;
+  color: #00245c;
   font-size: 16px;
   display: inline-block;
   line-height: 44px;
