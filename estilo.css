@@ -9,11 +9,16 @@
 .laranja {
   color: #f47c37;
 }
-.ratio{
+/*imagens e textos card*/
+.ratio {
+  margin-top: 1rem;
   aspect-ratio: 4/3;
   object-fit: contain;
 }
 
+h5 .card-title {
+  text-wrap: pretty;
+}
 
 .card {
   box-shadow: -2px 3px 5px 3px #dbdbdb;
@@ -46,7 +51,7 @@
 
 .card-title {
   font-weight: 400;
-  font-size: medium;
+  font-size: 1rem;
 }
 
 /*topo*/

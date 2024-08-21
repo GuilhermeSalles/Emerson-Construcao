@@ -65,7 +65,14 @@
 
 
         </div>
+        <div class="row row-cols-1 row-cols-md-2">
+            <div class="col mb-4">
+                <div class="card">
+                    <a href="pisosRevestimentos"><img src="../img/produto10.png" class="card-img-top" alt="Imagem Categorias"></a>
 
+                </div>
+            </div>
+        </div>
 
     </div>
 </div>
