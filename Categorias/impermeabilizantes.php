@@ -18,7 +18,6 @@
 
                 </div>
                 <div class="card-footer text-center">
-                    <h4>R$ 159,00 à vista</h4>
                     <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20impermeabilizantes%20que%20tem%20no%20site!">Comprar!</a>
                 </div>
 
@@ -35,7 +34,6 @@
 
                 </div>
                 <div class="card-footer text-center">
-                    <h4>R$ 339,00 à vista</h4>
                     <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20impermeabilizantes%20que%20tem%20no%20site!">Comprar!</a>
                 </div>
 
@@ -52,7 +50,6 @@
 
                 </div>
                 <div class="card-footer text-center">
-                    <h4>R$ 319,00 à vista</h4>
                     <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20impermeabilizantes%20que%20tem%20no%20site!">Comprar!</a>
                 </div>
 
@@ -69,7 +66,6 @@
 
                 </div>
                 <div class="card-footer text-center">
-                    <h4>R$ 239,00 à vista</h4>
                     <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20impermeabilizantes%20que%20tem%20no%20site!">Comprar!</a>
                 </div>
 
@@ -86,7 +82,6 @@
 
                 </div>
                 <div class="card-footer text-center">
-                    <h4>R$ 379,00 à vista</h4>
                     <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20impermeabilizantes%20que%20tem%20no%20site!">Comprar!</a>
                 </div>
 
