@@ -10,18 +10,18 @@
       <li data-target="#carosselComputador" data-slide-to="2" class="active"></li>
     </ol>
     <div class="carousel-inner">
-      <div class="carousel-item ">
-        <img src="img/bannerComputador/1.png" class="d-block w-100 img-fluid" alt="Imagem carrosel promoção" style="height: 820px;">
+      <div class="carousel-item">
+        <img src="img/bannerComputador/1.png" class="d-block w-100 img-fluid pc" alt="Imagem carrosel promoção" style="height: 820px;">
         <div class="carousel-caption d-none d-md-block">
         </div>
       </div>
       <div class="carousel-item">
-        <img src="img/bannerComputador/3.png" class="d-block w-100 img-fluid" alt="Imagem carrosel promoção" style="height: 820px;">
+        <img src="img/bannerComputador/3.png" class="d-block w-100 img-fluid pc" alt="Imagem carrosel promoção" style="height: 820px;">
         <div class="carousel-caption d-none d-md-block">
         </div>
       </div>
       <div class="carousel-item active">
-        <a href="ofertas"><img src="img/bannerComputador/2.png" class="d-block w-100 img-fluid" alt="Imagem carrosel promoção" style="height: 820px;"></a>
+        <a href="ofertas"><img src="img/bannerComputador/2.png" class="d-block w-100 img-fluid pc" alt="Imagem carrosel promoção" style="height: 820px;"></a>
       </div>
 
     </div>
