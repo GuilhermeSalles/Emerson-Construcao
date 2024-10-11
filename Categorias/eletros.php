@@ -10,7 +10,7 @@
         <!-- Exemplo de Card 1 -->
         <div class="col-md-3 col-sm-6">
             <div class="card">
-                <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Ventiladores%20que%20tem%20no%20site!">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/eletro1.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Ventilador Mesa Ventisol Turbo 6 50cm</h5>
@@ -18,7 +18,7 @@
 
                 </div>
                 <div class="card-footer text-center">
-                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Ventiladores%20que%20tem%20no%20site!">Comprar!</a>
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
                 </div>
 
             </div>
@@ -27,7 +27,7 @@
         <!-- Exemplo de Card 2 -->
         <div class="col-md-3 col-sm-6">
             <div class="card">
-                <a href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Ventiladores%20que%20tem%20no%20site!">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/eletro2.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Ventilador Mesa Ventisol Turbo 6 40cm</h5>
@@ -35,7 +35,7 @@
 
                 </div>
                 <div class="card-footer text-center">
-                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974114770?text=Ol%C3%A1,%20Gostaria%20de%20falar%20sobre%20a%20categoria%20de%20Ventiladores%20que%20tem%20no%20site!">Comprar!</a>
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
                 </div>
 
             </div>

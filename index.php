@@ -99,7 +99,7 @@
         <h4>Entregamos em toda a região</h4>
         <h4>Faça agora seu pedido</h4>
         <div class="btn-group-vertical">
-          <a type="button" class="btn btn-sm mt-3 azul" style="background-color: #164FA2; color: white;" href="https://wa.me/5519974114770">Ligar Agora</a>
+          <a type="button" class="btn btn-sm mt-3 azul" style="background-color: #164FA2; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Ligar Agora</a>
         </div>
       </div>
     </div>
