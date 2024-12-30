@@ -65,7 +65,7 @@
 
       </div>
 
-      <a href="ofertas" class="carousel-item h-100 active" style="background: url(img/bannerCelular/2.png) center/contain no-repeat;">
+      <a href="ofertas" class="carousel-item h-100 active" style="background: url(img/bannerCelular/2.jpg) center/contain no-repeat;">
       </a>
 
 
