@@ -6,8 +6,8 @@
   <div id="carosselComputador" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators" style="transform: scale(1.2);">
       <li data-target="#carosselComputador" data-slide-to="0"></li>
-      <li data-target="#carosselComputador" data-slide-to="1"></li>
-      <li data-target="#carosselComputador" data-slide-to="2" class="active"></li>
+      <li data-target="#carosselComputador" data-slide-to="1" class="active"></li>
+      <!-- <li data-target="#carosselComputador" data-slide-to="2" ></li> -->
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item">
@@ -15,14 +15,14 @@
         <div class="carousel-caption d-none d-md-block">
         </div>
       </div>
-      <div class="carousel-item">
+      <div class="carousel-item active">
         <img src="img/bannerComputador/3.png" class="d-block w-100 img-fluid pc" alt="Imagem carrosel promoção" style="height: 820px;">
         <div class="carousel-caption d-none d-md-block">
         </div>
       </div>
-      <div class="carousel-item active">
+      <!-- <div class="carousel-item">
         <a href="ofertas"><img src="img/bannerComputador/2.png" class="d-block w-100 img-fluid pc" alt="Imagem carrosel promoção" style="height: 820px;"></a>
-      </div>
+      </div> -->
 
     </div>
     <a class="carousel-control-prev" href="#carosselComputador" role="button" data-slide="prev">
@@ -48,8 +48,8 @@
     <div class="carousel-inner" style="height: 30em; margin-bottom: -35px; margin-top: -14px;">
       <ol class="carousel-indicators" style="margin-bottom: 10px;transform: scale(1.2);">
         <li data-target="#carouselSite" data-slide-to="0"></li>
-        <li data-target="#carouselSite" data-slide-to="1"></li>
-        <li data-target="#carouselSite" data-slide-to="2" class="active"></li>
+        <li data-target="#carouselSite" data-slide-to="1" class="active"></li>
+        <!-- <li data-target="#carouselSite" data-slide-to="2"></li> -->
       </ol>
       <!-- Imagens com texto do carrossel -->
       <!-- <div class="carousel-item active h-100" style="background: url(img/10.png) center/contain no-repeat;">
@@ -65,8 +65,8 @@
 
       </div>
 
-      <a href="ofertas" class="carousel-item h-100 active" style="background: url(img/bannerCelular/2.jpg) center/contain no-repeat;">
-      </a>
+      <!-- <a href="ofertas" class="carousel-item h-100 active" style="background: url(img/bannerCelular/2.jpg) center/contain no-repeat;">
+      </a> -->
 
 
 
