@@ -14,7 +14,7 @@
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/porta8.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
-                    <h5 class="card-title">Vitro Alumínio Branco C/ Grade 1.20x1.00</h5>
+                    <h5 class="card-title">Vitro Alumínio Branco C/ Grade 1.00x1.00</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
@@ -25,6 +25,23 @@
             </div>
         </div>
 
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/porta8.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Vitro Alumínio Branco C/ Grade 1,00x1,20</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
 
         <!-- Exemplo de Card 1 -->
         <div class="col-md-3 col-sm-6">
@@ -33,23 +50,6 @@
                     <img src="../img/categorias/porta8.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Vitro Alumínio Branco C/ Grade 1,00x1,50</h5>
-                    <p class="card-text">✅ Pronta Entrega </p>
-
-                </div>
-                <div class="card-footer text-center">
-                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
-                </div>
-
-            </div>
-        </div>
-
-        <!-- Exemplo de Card 1 -->
-        <div class="col-md-3 col-sm-6">
-            <div class="card">
-                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
-                    <img src="../img/categorias/porta8.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
-                <div class="card-body text-center">
-                    <h5 class="card-title">Vitro Alumínio Branco C/ Grade 1,00x2,00</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
@@ -83,7 +83,24 @@
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/porta7.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
-                    <h5 class="card-title">Veneziana Alumínio Branco 1.20x1.00 C/ Grade</h5>
+                    <h5 class="card-title">Veneziana Alumínio Branco 1.00x1.00 C/ Grade</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/17.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Veneziana Alumínio Branco 1.00x1.20 C/ Grade</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
@@ -101,23 +118,6 @@
                     <img src="../img/categorias/portasEjanelas/17.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Veneziana Alumínio Branco 1.00x1.50 C/ Grade</h5>
-                    <p class="card-text">✅ Pronta Entrega </p>
-
-                </div>
-                <div class="card-footer text-center">
-                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
-                </div>
-
-            </div>
-        </div>
-
-        <!-- Exemplo de Card 1 -->
-        <div class="col-md-3 col-sm-6">
-            <div class="card">
-                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
-                    <img src="../img/categorias/portasEjanelas/17.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
-                <div class="card-body text-center">
-                    <h5 class="card-title">Veneziana Alumínio Branco 1.00x2.00 C/ Grade</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
@@ -561,6 +561,159 @@
                     <img src="../img/categorias/portasEjanelas/11.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Porta completa verniz 80x2,10 bat 12cm</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/18.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Porta correr 4f 2,00x2,10 aluminio branco</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/19.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Porta sala lambril alumimio bco c/friso + pux</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/20.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Porta pivotante aluminio bco 1,20x2,10 c/friso +visor + pux</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/21.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Vitro aço branco c/gd elo</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/22.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Porta laminada aço branco 0,85x2,10</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/23.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Porta sala gd/elo branco 0,85x2,10</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/24.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Porta basculante aço branco 0,85x2,10</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/25.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Vitro max ar gd/elo branco 60x60</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Exemplo de Card 1 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/portasEjanelas/26.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Veneziana c/gd elo aço branco</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>

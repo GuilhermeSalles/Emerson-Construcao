@@ -72,6 +72,12 @@
 
                 </div>
             </div>
+            <div class="col mb-4">
+                <div class="card">
+                    <a href="churrasqueiras"><img src="../img/produto11.png" class="card-img-top" alt="Imagem Categorias"></a>
+
+                </div>
+            </div>
         </div>
 
     </div>
