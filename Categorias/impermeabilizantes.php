@@ -109,7 +109,7 @@
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/impermeabilizantes/7.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
-                    <h5 class="card-title">Neutrol 18 litros</h5>
+                    <h5 class="card-title">Neeutrol 18 litros</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
@@ -141,7 +141,7 @@
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/impermeabilizantes/9.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
-                    <h5 class="card-title">Vedalit 18 litros</h5>
+                    <h5 class="card-title">Manta Liquida 18 litros</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
@@ -157,7 +157,7 @@
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/impermeabilizantes/10.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
-                    <h5 class="card-title">impermeabilizante tecplus top 18kg</h5>
+                    <h5 class="card-title">Vedalit 18 litros</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>
@@ -172,6 +172,22 @@
             <div class="card">
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/impermeabilizantes/11.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Impermeabilizante tecplus top 18kg</h5>
+                    <p class="card-text">✅ Pronta Entrega </p>
+
+                </div>
+                <div class="card-footer text-center">
+                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
+                </div>
+
+            </div>
+        </div>
+        <!-- Exemplo de Card 5 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
+                    <img src="../img/categorias/impermeabilizantes/12.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Bianco 0,900ml</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
@@ -311,22 +327,7 @@
 
             </div>
         </div>
-        <!-- Exemplo de Card 5 -->
-        <div class="col-md-3 col-sm-6">
-            <div class="card">
-                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
-                    <img src="../img/categorias/impermeabilizantes/20.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
-                <div class="card-body text-center">
-                    <h5 class="card-title">Bianco Argamassas e Chapisco 18Kg</h5>
-                    <p class="card-text">✅ Pronta Entrega </p>
-
-                </div>
-                <div class="card-footer text-center">
-                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
-                </div>
-
-            </div>
-        </div>
+      
 
     </div>
 </div>
