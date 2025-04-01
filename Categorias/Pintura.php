@@ -11,7 +11,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
-                    <img src="../img/categorias/tinta01.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                    <img src="../img/categorias/tinta02.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Tinta Branca Rendimento Extra 18LT Externa</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
@@ -28,7 +28,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
-                    <img src="../img/categorias/tinta02.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                    <img src="../img/categorias/tinta01.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Tinta Branca Peg e <br>Pinte 18LT</h5>
                     <p class="card-text">✅ Pronta Entrega </p>

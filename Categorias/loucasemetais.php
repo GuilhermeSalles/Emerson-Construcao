@@ -82,7 +82,7 @@
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/loucas/05.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
-                    <h5 class="card-title">Bacia City c/ Caixa Acoplada Preta</h5>
+                    <h5 class="card-title">Bacia Ema c/ Caixa Acoplada Preta</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
 
                 </div>

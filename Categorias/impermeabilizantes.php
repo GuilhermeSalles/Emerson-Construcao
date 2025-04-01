@@ -75,22 +75,6 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
-                    <img src="../img/categorias/impermeabilizantes/04.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
-                <div class="card-body text-center">
-                    <h5 class="card-title">Bianco Argamassas e Chapisco 18Kg</h5>
-                    <p class="card-text">✅ Pronta Entrega </p>
-
-                </div>
-                <div class="card-footer text-center">
-                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
-                </div>
-
-            </div>
-        </div>
-        <!-- Exemplo de Card 5 -->
-        <div class="col-md-3 col-sm-6">
-            <div class="card">
-                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
                     <img src="../img/categorias/impermeabilizantes/6.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Vedalit 0,900ml</h5>
@@ -268,7 +252,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="card">
                 <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
-                    <img src="../img/categorias/impermeabilizantes/17.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
+                    <img src="../img/categorias/impermeabilizantes/18.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
                 <div class="card-body text-center">
                     <h5 class="card-title">Vedacit 0,900ml</h5>
                     <p class="card-text">✅ Pronta Entrega </p>
@@ -280,22 +264,7 @@
 
             </div>
         </div>
-        <!-- Exemplo de Card 5 -->
-        <div class="col-md-3 col-sm-6">
-            <div class="card">
-                <a href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">
-                    <img src="../img/categorias/impermeabilizantes/18.jpeg" class="card-img-top ratio" alt="Oferta 1"></a>
-                <div class="card-body text-center">
-                    <h5 class="card-title">Vedacit 18 litros</h5>
-                    <p class="card-text">✅ Pronta Entrega </p>
-
-                </div>
-                <div class="card-footer text-center">
-                    <a type="button" class="btn btn-lg btn-block mt-3" style="background-color: #13AC2D; color: white;" href="https://wa.me/5519974106370?text=Ol%C3%A1%20tudo%20bem?%20Vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20ofertas%20disponíveis!">Comprar!</a>
-                </div>
-
-            </div>
-        </div>
+      
         <!-- Exemplo de Card 5 -->
         <div class="col-md-3 col-sm-6">
             <div class="card">
