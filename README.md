@@ -1,4 +1,5 @@
 # Emerson Construção 🏗️
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeSalles/Emerson-Construcao/blob/main/LICENSE) 
 
 ## Visão Geral 🌟
 "Emerson Construção" é o site oficial de uma empresa de materiais de construção, oferecendo uma vasta gama de produtos de alta qualidade para projetos de construção. Com um design intuitivo e fácil de usar, nosso site visa facilitar o acesso dos clientes às informações e recursos necessários para o crescimento e sucesso de seus projetos.
